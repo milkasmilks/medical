@@ -121,7 +121,6 @@ h6 {
 body {
   color: #000;
   font-size: 14px;
-  overflow: hidden;
 }
 
 body._lock {
@@ -988,6 +987,7 @@ body.ie ._ibg img {
   height: 150px;
   z-index: 100;
   color: #fff;
+  overflow: hidden;
 }
 
 .header__content {
@@ -1178,6 +1178,7 @@ body.ie ._ibg img {
           flex: 1 1 100%;
   position: relative;
   min-height: 700px;
+  overflow: hidden;
 }
 
 .mainscreen.open::after {
